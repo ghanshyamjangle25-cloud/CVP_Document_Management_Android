@@ -1,0 +1,18 @@
+ANDROID REPOSITORY:
+https://github.com/ghanshyamjangle25-cloud/CVP_Document_Management_Android.git
+
+IMPORTANT:
+Upload the CONTENTS of this folder to the ROOT of the repository.
+Do NOT upload this folder as one nested folder.
+
+After upload the repository main page must show:
+.github/
+app/
+build.gradle
+gradle.properties
+settings.gradle
+README.md
+
+Then:
+Actions -> Build CVP Android APK -> Run workflow
+When green -> open run -> Artifacts -> CVP-Document-Management-APK
